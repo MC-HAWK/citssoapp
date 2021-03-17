@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-citssoapp-dev-184350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::073983628607:role/amplify-citssoapp-dev-184350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::073983628607:role/amplify-citssoapp-dev-184350-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-citssoapp-dev-184350-deployment",
+      "UnauthRoleName": "amplify-citssoapp-dev-184350-unauthRole",
+      "StackName": "amplify-citssoapp-dev-184350",
+      "StackId": "arn:aws:cloudformation:us-east-1:073983628607:stack/amplify-citssoapp-dev-184350/ea2708c0-85df-11eb-91c2-0e2e9aec3a21",
+      "AmplifyAppId": "d1x0lpt8ju2pn5"
+    },
+    "categories": {
+      "auth": {
+        "citssoapp3ad66b60": {
+          "userPoolId": "us-east-1_lZG4ypmP5",
+          "userPoolName": "CIT - Cognito PoC",
+          "webClientId": "711mkuma59qif48ps34u5ei5tt",
+          "nativeClientId": "556j6vr746hnnth96u8ke6shn2"
+        }
+      }
+    }
+  }
+}
